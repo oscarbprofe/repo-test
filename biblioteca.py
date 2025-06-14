@@ -24,5 +24,5 @@ personas = [
     {"nombre": "Tomás", "apellido": "Silva", "rut": "10516040-5", "libros": [1, 7, 10]}
 ]
 
-for persona in personas: 
+for persona in personas:
     print(persona["apellido"])
